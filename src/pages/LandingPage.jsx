@@ -21,7 +21,7 @@ const LandingPage = () => {
         </h1>
 
         <p className="landing-subtitle">
-          Connecting Farmers and Consumers with Trust & Transparency
+          Connecting Farmers and Consumers with Trust and Transparency
         </p>
 
         <div className="landing-buttons">
